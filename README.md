@@ -394,7 +394,5 @@ Non-trainable params: 53,120
 ____________________________________________________________________________________________________
   
 ```
-### Architecture   
-![Learning Curve](plots/HappyModel.png)  
 
 
